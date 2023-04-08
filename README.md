@@ -1,7 +1,10 @@
 # Personal notes
 
-This is a collection of my notes for software development, studying, etc. which can be very useful but easily forgotten.
+## Software Development
 
-## Software development
+- [Semantic Versioning](versioning.md)
 
-- [Semantic Versioning](./dev/versioning.md)
+## Git
+
+- [Useful commands](useful-commands.md)
+

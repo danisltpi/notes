@@ -1,0 +1,27 @@
+name: Generate README
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+      - name: Generate README
+        run: python generate_readme.py
+      - name: Commit changes
+        run: |
+          git config --global user.email "lcdns@protonmail.com"
+          git config --global user.name "danisltpi"
+          git commit -a -m "Update README" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
