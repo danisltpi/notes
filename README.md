@@ -4,10 +4,9 @@ This is a collection of my notes for software development, studying, etc. which 
 
 ## Software Development
 
-- [Semantic Versioning](./versioning.md)
+### [Semantic Versioning](./versioning.md)
 
 ## Git
 
 - [GitHub Actions](./github-actions.md)
 - [Useful commands](./useful-commands.md)
-
