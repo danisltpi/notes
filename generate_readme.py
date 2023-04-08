@@ -19,5 +19,5 @@ with open('./README.md', 'w') as f:
             md_filename = os.path.basename(md_file)
             with open(md_file, 'r') as md:
                 h1_header = md.readline().strip('#').strip()
-            f.write('- [' + h1_header + '](./' + md_filename + ')\n')
+            f.write('- [' + h1_header + '](./' dir + '/' + md_filename + ')\n')
         f.write('\n')
