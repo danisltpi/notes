@@ -11,3 +11,7 @@
 #### Example
 
 `git config --global alias.lg "log --oneline --graph --decorate --color"`
+
+### Commit a change in one command
+
+`git commit -am "Commit message"`
