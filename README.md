@@ -4,10 +4,10 @@ This is a collection of my notes for software development, studying, etc. which 
 
 ## Software Development
 
+- [Svelte](./dev/svelte.md)
 - [Semantic Versioning](./dev/versioning.md)
 
 ## Git
 
-- [GitHub Actions](./git/github-actions.md)
 - [Useful commands](./git/useful-commands.md)
 
