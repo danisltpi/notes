@@ -9,5 +9,6 @@ This is a collection of my notes for software development, studying, etc. which 
 
 ## Git
 
+- [Notes](./git/notes.md)
 - [Useful commands](./git/useful-commands.md)
 
