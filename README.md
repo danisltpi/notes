@@ -5,6 +5,7 @@ This is a collection of my notes for software development, studying, etc. which 
 ## Software Development
 
 - [Svelte](./dev/svelte.md)
+- [General Notes](./dev/general.md)
 - [Semantic Versioning](./dev/versioning.md)
 
 ## Git
