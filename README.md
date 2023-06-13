@@ -17,6 +17,10 @@ This is a collection of my notes for software development, studying, etc. which 
 - [General Notes](./dev/general.md)
 - [Svelte](./dev/svelte.md)
 
+## Wsl
+
+- [Troubleshooting](./wsl/troubleshooting.md)
+
 ## Bash
 
 - [General Bash](./bash/general.md)
