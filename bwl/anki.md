@@ -10,8 +10,6 @@
 
 - Jahresabschluss
 
-- Finanzierungsarten (check)
-
 - Gewinnentwicklung
 
 - Deckungsgrad
@@ -21,8 +19,6 @@
 - Unterschied zwischen der Liquidität 1. Und 2. Grades
 
 - Martksegmentierung
-
-- Kostenvergleichsrechnung
 
 - Gewinnvergleichsrechnung
 
@@ -52,15 +48,17 @@
 
 - Drei Arten von Personengesellschaften
 
-- GbR (Gesellschaft bürgerlichen Rechts)
-- Partnerschaft
-- KG (Kommanditgesellschaft)
-- OHG (Offene Handelsgesellschaft)
-
 ## Kapitalgesellschaften
 
 - GmbH
 - AG
+
+## Personengesellschaften
+
+- GbR (Gesellschaft bürgerlichen Rechts)
+- Partnerschaft
+- KG (Kommanditgesellschaft)
+- OHG (Offene Handelsgesellschaft)
 
 ## Vier Voraussetzungen für eine effiziente Marktsegmentierung
 
@@ -129,3 +127,18 @@ Finanzierung aus Rückstellungen ist eine Form der Innenfinanzierung, bei der da
 ## Was ist Finanzierung aus Abschreibungen?
 
 Finanzierung aus Abschreibungen ist eine Form der Innenfinanzierung, bei der das Unternehmen den Werteverzehr von Vermögensgegenständen (Abschreibungen) nutzt, um Mittel für neue Investitionen zu generieren.
+
+## Kostenvergleichsrechnung
+
+- Berechnung der Kosten pro Jahr um Investionsalternativen vergleichen zu können
+
+### Kaluklationsschema
+
+| Abschreibung                           |
+| -------------------------------------- |
+| + kaluklatorische Zinsen               |
+| + fixe Betriebskosten                  |
+| + variable Betriebskosten              |
+| <b>Kosten der Alternative pro Jahr</b> |
+
+Kosten
