@@ -2,26 +2,26 @@
 
 This is a collection of my notes for software development, studying, etc. which can be very useful but easily forgotten.
 
-## Bwl
+## Bash
 
-- [bwl](./bwl/anki.md)
+- [General Bash](./bash/general.md)
 
 ## Git
 
-- [Notes](./git/notes.md)
 - [Useful commands](./git/useful-commands.md)
+- [Notes](./git/notes.md)
 
-## Software Development
+## Bwl
 
-- [Semantic Versioning](./dev/versioning.md)
-- [General Notes](./dev/general.md)
-- [Svelte](./dev/svelte.md)
+- [bwl](./bwl/anki.md)
 
 ## Wsl
 
 - [Troubleshooting](./wsl/troubleshooting.md)
 
-## Bash
+## Software Development
 
-- [General Bash](./bash/general.md)
+- [Svelte](./dev/svelte.md)
+- [General Notes](./dev/general.md)
+- [Semantic Versioning](./dev/versioning.md)
 
