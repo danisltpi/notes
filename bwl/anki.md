@@ -130,15 +130,50 @@ Finanzierung aus Abschreibungen ist eine Form der Innenfinanzierung, bei der das
 
 ## Kostenvergleichsrechnung
 
+- statisches Verfahren
 - Berechnung der Kosten pro Jahr um Investionsalternativen vergleichen zu können
 
-### Kaluklationsschema
+Kriterium:
 
-| Abschreibung                           |
-| -------------------------------------- |
-| + kaluklatorische Zinsen               |
-| + fixe Betriebskosten                  |
-| + variable Betriebskosten              |
-| <b>Kosten der Alternative pro Jahr</b> |
+$$
 
-Kosten
+K_{Ges}(A) < K_{Ges}(B)
+
+
+$$
+
+Wähle die Altenrative mt den geringsten Kosten
+
+| Kaluklationsschema              |
+| ------------------------------- |
+| Abschreibung                    |
+| + kaluklatorische Zinsen        |
+| + fixe Betriebskosten           |
+| + variable Betriebskosten       |
+| Kosten der Alternative pro Jahr |
+
+## Gewinnvergleichsrechnung
+
+![](assets/img/2023-06-15-11-31-28.png)
+
+## Rentabilitätsverfahren
+
+## Umsatzrentabilitaet
+
+Sie zeigt an, wie effektiv ein Unternehmen seinen Umsatz in Gewinn umwandelt.
+
+Die Umsatzrentabilität gibt an, wie viel Gewinn ein Unternehmen pro umgesetzten Euro erzielt. Ein höherer Prozentsatz bedeutet, dass ein Unternehmen effizienter arbeitet und einen größeren Anteil des Umsatzes als Gewinn behält.
+
+_Eine magische Zahl, die uns sagt, wie gut ein Unternehmen darin ist, aus dem Umsatz Geld zu verdienen_
+
+## Eigenkapitalrentabilitaet
+
+Die Eigenkapitalrentabilität zeigt an, wie gut ein Unternehmen in der Lage ist, Gewinne mit dem von den Eigentümern investierten Geld zu erzielen. Ein höherer Prozentsatz bedeutet, dass das Unternehmen effektiv mit dem Eigenkapital arbeitet und eine gute Rendite für die Eigentümer erzielt.
+
+## Gesamtkapitalrentabilitaet
+
+Das Gesamtkapital umfasst sowohl das Eigenkapital als auch Fremdkapital, also die Verbindlichkeiten des Unternehmens.
+
+## Return on invesment
+
+Sie zeigt an, wie viel Gewinn im Verhältnis zum investierten Kapital erzielt wird
