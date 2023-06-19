@@ -177,3 +177,45 @@ Das Gesamtkapital umfasst sowohl das Eigenkapital als auch Fremdkapital, also di
 ## Return on invesment
 
 Sie zeigt an, wie viel Gewinn im Verhältnis zum investierten Kapital erzielt wird
+
+## Amortisationsrechnung
+
+Um die Dauer zu berechnen, die benötigt wird, um eine Investition oder Anschaffung durch die erzielten Einnahmen oder Einsparungen zu decken.
+
+![](assets/img/2023-06-16-10-55-31.png)
+
+## Kapitalwertmethode
+
+(dynamische Amortisationsrechnung)
+
+Sie berücksichtigt den Zeitwert des Geldes, indem sie alle erwarteten zukünftigen Cashflows eines Projekts auf ihren Gegenwartswert abzinst.
+
+_Wieviel wäre eine Zahlung, die in fünf Jahren getätigt werden muss heute Wert?_
+
+_Wieviel Geld muss ich heute bei einem Zinssatz von 10% anlegen damit ich in 5 Jahren 10.000 Euro habe?_
+
+![](assets/img/2023-06-19-07-42-30.png)
+
+K = Kapitalwert
+
+E = Einzahlungen
+
+A = Auszahlungen
+
+i = Kalkulationszins
+
+## Interne Zinsfussmethode
+
+Dasselbe wie Kapitalwertmethode, nun aber
+ist der Zinssatz gesucht bei K = 0.
+
+Ermöglicht die Berechnung der internen Rendite eines Projekts, also der Rendite, bei der der Kapitalwert der zukünftigen Cashflows gleich Null ist
+
+Setze Kapitalwert=0 und suche den hierzu
+passenden Zins r mit z.B. Regula Falsi
+
+![](assets/img/2023-06-19-08-35-19.png)
+
+## Annuitätenmethode
+
+Berechnung der Ratenzahlungen, die erforderlich sind, um einen Kredit oder eine Investition über einen bestimmten Zeitraum zurückzuzahlen
