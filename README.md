@@ -11,6 +11,10 @@ This is a collection of my notes for software development, studying, etc. which 
 - [Useful commands](./git/useful-commands.md)
 - [Notes](./git/notes.md)
 
+## Os
+
+- [Betriebssysteme Klausur](./os/anki.md)
+
 ## Bwl
 
 - [bwl](./bwl/anki.md)
