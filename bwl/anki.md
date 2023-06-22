@@ -22,31 +22,35 @@
 
 - Gewinnvergleichsrechnung
 
-- Kritische Menge
-
 - Deckungsbeitrag
 
 - Break-even point
 
 - Kostenfunktion
 
-- Wie setzt sich BIP zusammen?
-
-- BIP aus der Entstehungs- und aus der Verwendungssicht
-
 - Wie kann der Staat aktiv eingreifen, um zu verhindern, dass das BIP weniger stark sinkt?
-
-- Aussenfinanzierung
-
-- Innenfinanzierung
 
 - Drei Entscheidungssituationen
 
-- Drei Verfahren der dynamischen Investitionsrechnung
-
 - Vier Felder im klassischen BC-Portfolio
 
-- Drei Arten von Personengesellschaften
+## Wie setzt sich BIP zusammen?
+
+Das Bruttoinlandsprodukt (BIP) umfasst den Wert aller innerhalb
+eines Wirtschaftsgebietes während einer bestimmten Periode
+produzierten Waren und Dienstleistungen.
+(Entstehung)
+
+Privater Verbrauch + Staatsverbrauch + Investitionen + Außenbeitrag
+(Verwendung)
+
+## BIP aus der Entstehungs- und aus der Verwendungssicht
+
+## Drei Verfahren der dynamischen Investitionsrechnung
+
+- Amortisationsrechnung
+- Interner Zinsfussmethode
+- Kapitalwertmethode
 
 ## Kapitalgesellschaften
 
@@ -219,3 +223,7 @@ passenden Zins r mit z.B. Regula Falsi
 ## Annuitätenmethode
 
 Berechnung der Ratenzahlungen, die erforderlich sind, um einen Kredit oder eine Investition über einen bestimmten Zeitraum zurückzuzahlen
+
+## Wie bezeichnet man die Proudktionsmenge, bei der sich die Investitionsentscheidung aendert?
+
+Kritische Menge
