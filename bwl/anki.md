@@ -227,3 +227,34 @@ Berechnung der Ratenzahlungen, die erforderlich sind, um einen Kredit oder eine 
 ## Wie bezeichnet man die Proudktionsmenge, bei der sich die Investitionsentscheidung aendert?
 
 Kritische Menge
+
+## Was ist Buchführung
+
+Buchführung ist ein System zur systematischen Erfassung, Organisation und Aufzeichnung von finanziellen Transaktionen und Geschäftsvorgängen eines Unternehmens. Es dient der Dokumentation und Überwachung der finanziellen Aktivitäten einer Organisation.
+
+## Berechnung des BIPs
+
+3 Formen:
+
+- Entstehung: Wer backt unseren Kuchen?
+- Verwendung: Wer isst den Kuchen auf?
+- Verteilung: Alles was auf der Welt produziert wird, wird auch Konsumiert
+
+## BIP Entstehungssicht
+
+Wie entsteht der BIP?
+
+- Landwirtschaft
+- Baugewerbe
+- Handel und Verkehr
+- Finanzierung und Vermietung
+- Dienstleister
+
+## BIP Verwendungssicht
+
+Wie wird der BIP verwendet?
+
+- Konsumausgaben von privat Haushalten oder private Organisationen
+- Konsumausgaben von Staat
+- Investitionen
+- Aussenbeitrag
